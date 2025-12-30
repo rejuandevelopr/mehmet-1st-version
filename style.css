@@ -728,6 +728,18 @@ section {
   margin-top: var(--spacing-2xl);
 }
 
+@media screen and (max-width:768px) {
+  .footer {
+    padding-bottom: 104px;
+  }
+}
+
+@media screen and (max-width:576px) {
+  .footer {
+    padding-bottom: 84px;
+  }
+}
+
 .footer-content {
   max-width: 1400px;
   margin: 0 auto;
