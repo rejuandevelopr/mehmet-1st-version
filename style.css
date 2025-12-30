@@ -1297,3 +1297,7 @@ section {
     transform: translateY(0);
   }
 }
+
+#thumbnails {
+  display: none;
+}
